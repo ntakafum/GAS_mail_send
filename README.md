@@ -1,0 +1,2 @@
+# GAS_mail_send
+誰でも簡単にgooglescriptでメール送信機能を実装できる出来る魔法コード
